@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+}
+
+.titulo {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+   color: #d7ce17ff;
+   font-size:350%;
+   padding: 2%;
+}
+.subtitulo{
+    font-size:150%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+    color: #d7ce17ff;
+}
+
+form{
+    align-items: center;
+    width: 100%;
+ 
+}
+label {
+    color: aliceblue;
+}
